@@ -16,7 +16,9 @@ Currently, I am a research scholar at the [Harvard's AIM Program](https://github
 
 I am part of the [NCI's Imaging Data Commons](https://github.com/ImagingDataCommons) team, working on integrating AI-based imaging analysis pipelinest in the platform.
 
-You can take a look at my most recent public commits [here!](https://github.com/search?o=desc&q=author%3Adenbonte&s=committer-date&type=Commits) 👨‍💻
+You can take a look at my most recent public commits [👉 here! 👨‍💻](https://github.com/search?o=desc&q=author%3Adenbonte&s=committer-date&type=Commits)
+
+On my GitHub you can also find random repositories forked or created typically while trying to learn something off-work.
 
 <br>
 
