@@ -14,7 +14,7 @@ After my Master Degree, I worked in a multidisciplinary group between Glasgow, S
 
 Currently, I am a research scholar at the [Harvard's AIM Program](https://github.com/AIM-Harvard) 🇺🇸 and a PhD Student at Maastricht University 🇳🇱
 
-I am part of the [NCI's Imaging Data Commons](https://github.com/ImagingDataCommons) team, working on integrating AI-based imaging analysis pipelinest in the platform.
+I am part of the [NCI's Imaging Data Commons](https://github.com/ImagingDataCommons) team, working on integrating AI-based imaging analysis pipelines in the platform.
 
 You can take a look at my most recent public commits [👉 here! 👨‍💻](https://github.com/search?o=desc&q=author%3Adenbonte&s=committer-date&type=Commits)
 
