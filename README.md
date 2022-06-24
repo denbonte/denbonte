@@ -1,6 +1,6 @@
 ## Hello There 👀
 
-![Hello There!](assets/hello_there.gif)
+![Hello There!](assets/hello_there_2022.gif)
 
 My name is Dennis. I am a passionate coder and Linux enthusiast trying to build software to accelerate AI solutions into clinic practice 🤖 🏥
 
