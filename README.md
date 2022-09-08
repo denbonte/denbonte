@@ -2,7 +2,7 @@
 
 ![Hello There!](assets/hello_there_2022.gif)
 
-My name is Dennis. I am a passionate coder and Linux enthusiast trying to build software to accelerate AI solutions into clinic practice 🤖 🏥
+My name is Dennis. I am a passionate coder and Linux enthusiast trying to build software to accelerate AI solutions into clinical practice 🤖 🏥
 
 I obtained my BSc degree in Electronics and Telecommunication Engineering and my MSc degree (with a focus on Signal Processing) at the University of Brescia, Italy, where I was born and raised 🇮🇹
 
