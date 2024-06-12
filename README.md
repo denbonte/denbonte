@@ -18,7 +18,7 @@ In keeping with this theme, I was also part of the [NCI's Imaging Data Commons](
 
 #### 🌱 What Do I Do
 
-I am currently a Postdoctoral researcher at the Computational Biology Department of the University of Lausanne, where I work in a multidisciplinary team on projects that spans genetics, computational science, and clinical practice. My research is focused on enhancing disease risk prediction by linking genetic profiles with vascular traits derived from retinal imaging, helping the diagnosis and management of vascular diseases.
+I am currently a Postdoctoral researcher at the Computational Biology Department of the University of Lausanne, where I work in a multidisciplinary team on projects that span genetics, computational science, and clinical practice. My research focuses on enhancing disease risk prediction by linking genetic profiles with vascular traits derived from retinal imaging, helping the diagnosis and management of vascular diseases.
 
 On my GitHub you can also find random repositories forked or created typically while trying to learn something off-work.
 
